@@ -303,5 +303,167 @@
       "body": "some comment",
       "postId": 1
     }
+  ],
+  "destination_packages":[
+    {
+      "id": 1,
+      "name": "City Lights Getaway",
+      "location": "Urban Oasis",
+      "duration": "3 days",
+      "price": 499.99,
+      "details": "Experience the vibrant city life with this 3-day urban escape."
+    },
+    {
+      "id": 2,
+      "name": "Mountain Adventure Retreat",
+      "location": "Majestic Peaks",
+      "duration": "4 days",
+      "price": 799.99,
+      "details": "Embark on an adventurous journey amidst the majestic peaks for 4 days."
+    },
+    {
+      "id": 3,
+      "name": "Tropical Paradise Relaxation",
+      "location": "Sunset Beach",
+      "duration": "5 days",
+      "price": 999.99,
+      "details": "Relax and unwind on the sandy beaches of Sunset Beach with this 5-day tropical paradise package."
+    },
+    {
+      "id": 4,
+      "name": "Cultural Heritage Tour",
+      "location": "Historic City",
+      "duration": "7 days",
+      "price": 1299.99,
+      "details": "Immerse yourself in the rich cultural heritage of a historic city on this 7-day tour."
+    },
+    {
+      "id": 5,
+      "name": "Wildlife Safari Expedition",
+      "location": "Savannah Wilderness",
+      "duration": "6 days",
+      "price": 1099.99,
+      "details": "Embark on a thrilling wildlife safari expedition in the heart of the Savannah Wilderness for 6 days."
+    },
+    {
+      "id": 6,
+      "name": "Island Paradise Discovery",
+      "location": "Tropical Oasis",
+      "duration": "8 days",
+      "price": 1499.99,
+      "details": "Discover the hidden treasures of a tropical oasis with this 8-day island paradise adventure."
+    },
+    {
+      "id": 7,
+      "name": "Snowy Mountain Retreat",
+      "location": "Snow Peaks Haven",
+      "duration": "5 days",
+      "price": 899.99,
+      "details": "Escape to the serene Snow Peaks Haven for a 5-day snowy mountain retreat."
+    },
+    {
+      "id": 8,
+      "name": "Historical Landmarks Expedition",
+      "location": "Ancient Kingdom",
+      "duration": "6 days",
+      "price": 1199.99,
+      "details": "Explore the historical landmarks of an ancient kingdom on this 6-day expedition."
+    },
+    {
+      "id": 9,
+      "name": "Beachside Bliss Getaway",
+      "location": "Sandy Shores",
+      "duration": "4 days",
+      "price": 699.99,
+      "details": "Experience beachside bliss on the sandy shores with this 4-day getaway."
+    },
+    {
+      "id": 10,
+      "name": "Jungle Adventure Expedition",
+      "location": "Tropical Rainforest",
+      "duration": "7 days",
+      "price": 1199.99,
+      "details": "Embark on an adventurous journey through the tropical rainforest on this 7-day expedition."
+    },
+    {
+      "id": 11,
+      "name": "Desert Oasis Retreat",
+      "location": "Golden Sands",
+      "duration": "4 days",
+      "price": 799.99,
+      "details": "Discover an oasis in the desert with this 4-day desert retreat amidst golden sands."
+    },
+    {
+      "id": 12,
+      "name": "Lakeview Serenity Escape",
+      "location": "Crystal Lake",
+      "duration": "3 days",
+      "price": 499.99,
+      "details": "Experience serenity with a 3-day escape to the breathtaking views of Crystal Lake."
+    },
+    {
+      "id": 13,
+      "name": "Northern Lights Adventure",
+      "location": "Polar Wonderland",
+      "duration": "6 days",
+      "price": 1099.99,
+      "details": "Witness the mesmerizing Northern Lights in the polar wonderland on this 6-day adventure."
+    },
+    {
+      "id": 14,
+      "name": "Sunrise Yoga Retreat",
+      "location": "Mountain Zen",
+      "duration": "4 days",
+      "price": 699.99,
+      "details": "Rejuvenate your mind and body with a 4-day sunrise yoga retreat in the peaceful Mountain Zen."
+    },
+    {
+      "id": 15,
+      "name": "Coastal Cliff Exploration",
+      "location": "Cliffside Horizons",
+      "duration": "5 days",
+      "price": 899.99,
+      "details": "Explore the scenic coastal cliffs and horizons with this 5-day coastal cliff exploration."
+    },
+    {
+      "id": 16,
+      "name": "Vineyard Retreat",
+      "location": "Wine Country",
+      "duration": "3 days",
+      "price": 499.99,
+      "details": "Indulge in a relaxing retreat amidst vineyards in the beautiful Wine Country for 3 days."
+    },
+    {
+      "id": 17,
+      "name": "Skydiving Adventure",
+      "location": "Adrenaline Heights",
+      "duration": "2 days",
+      "price": 299.99,
+      "details": "Experience an adrenaline-pumping skydiving adventure in the heights for 2 days."
+    },
+    {
+      "id": 18,
+      "name": "Mystical Caves Exploration",
+      "location": "Enchanted Caverns",
+      "duration": "4 days",
+      "price": 699.99,
+      "details": "Embark on a mystical journey through the enchanted caverns with this 4-day exploration."
+    },
+    {
+      "id": 19,
+      "name": "Festival Celebration Tour",
+      "location": "Cultural Fest",
+      "duration": "5 days",
+      "price": 899.99,
+      "details": "Celebrate cultural festivals with a 5-day festival celebration tour in the vibrant Cultural Fest."
+    },
+    {
+      "id": 20,
+      "name": "Space Odyssey Expedition",
+      "location": "Galactic Frontier",
+      "duration": "8 days",
+      "price": 1499.99,
+      "details": "Embark on an extraordinary space odyssey expedition to the Galactic Frontier for 8 days."
+    }
   ]
 }
