@@ -464,6 +464,38 @@
       "duration": "8 days",
       "price": 1499.99,
       "details": "Embark on an extraordinary space odyssey expedition to the Galactic Frontier for 8 days."
+    },
+    {
+      "id": 21,
+      "name": "Cape Town Exploration Extravaganza",
+      "location": "Cape Town",
+      "duration": "4 Days 3 Nights",
+      "price": 600,
+      "details": "Explore the wonders of Cape Town. Immerse yourself in breathtaking landscapes and vibrant culture. Unforgettable experiences await you..."
+    },
+    {
+      "id": 22,
+      "name": "Jazz and Charm in New Orleans",
+      "location": "New Orleans",
+      "duration": "4 Days 3 Nights",
+      "price": 700,
+      "details": "Experience the soulful rhythms of New Orleans. Dive into a world of music, history, and delicious cuisine. Let the city's spirit captivate your senses..."
+    },
+    {
+      "id": 23,
+      "name": "Luxury Retreat in The Maldives",
+      "location": "The Maldives",
+      "duration": "4 Days 3 Nights",
+      "price": 800,
+      "details": "Indulge in paradise on Earth at The Maldives. Surrender to crystal-clear waters and pristine beaches. A sanctuary for relaxation and unforgettable moments..."
+    },
+    {
+      "id": 24,
+      "name": "Discover the Magic of Dubrovnik, Croatia",
+      "location": "Dubrovnik, Croatia",
+      "duration": "4 Days 3 Nights",
+      "price": 900,
+      "details": "Embark on a journey to the enchanting city of Dubrovnik, Croatia, where history, culture, and breathtaking landscapes converge. Experience the old-world charm of medieval streets, explore ancient city walls, and indulge in the vibrant local cuisine."  
     }
   ]
 }
